@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nabil Bank Demo</string>
+    <string name="password">password</string>
+    <string name="phone_nummber">phone nummber</string>
+    <string name="good_afternon">Good Afternon!</string>
+    <string name="remember_mobile_number">Remember Mobile Number</string>
+    <string name="login">LOGIN</string>
+    <string name="unable_to_login_tap_here">Unable to Login? Tap Here</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="requests">REQUESTS</string>
+    <string name="nabil_smartbank">NABIL SmartBank</string>
+</resources>
